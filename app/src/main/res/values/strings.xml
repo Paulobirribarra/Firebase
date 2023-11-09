@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="btnIniciar">Iniciar Sesión</string>
+    <string name="btnCancelar">Registrar</string>
+    <string name="etEmail">Ingrese su Email</string>
+    <string name="etPass">Ingrese su Contraseña</string>
+    <string name="etPassRegVeri">Re ingrese su Contraseña</string>
+    <string name="btnRegistrar">Registrarse</string>
+</resources>
